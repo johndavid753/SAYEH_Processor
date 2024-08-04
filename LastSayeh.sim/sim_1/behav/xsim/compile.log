@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/JMadugul/OneDrive - Analog Devices Inc/Documents/VIVADO/LastSayeh/LastSayeh.srcs/sources_1/new/sayeh.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addresslogic
+INFO: [VRFC 10-311] analyzing module programcounter
+INFO: [VRFC 10-311] analyzing module AddressingUnit
+INFO: [VRFC 10-311] analyzing module StatusRegister
+INFO: [VRFC 10-311] analyzing module ArithmeticUnit
+INFO: [VRFC 10-311] analyzing module WindowPointer
+INFO: [VRFC 10-311] analyzing module InstrunctionRegister
+INFO: [VRFC 10-311] analyzing module RegisterFile
+INFO: [VRFC 10-311] analyzing module datapath
+INFO: [VRFC 10-311] analyzing module controller
+INFO: [VRFC 10-311] analyzing module Sayeh
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/JMadugul/OneDrive - Analog Devices Inc/Documents/VIVADO/LastSayeh/LastSayeh.srcs/sources_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
